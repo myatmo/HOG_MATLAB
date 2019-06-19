@@ -13,3 +13,10 @@ Results of using different filters
 ![Scharr](visualization/scharr.jpg)
 ![Prewitt](visualization/prewitt.jpg)
 ![Roberts](visualization/roberts.jpg)
+
+:
+	• Connect
+		○ Change
+		○ Check
+	• Connect
+
