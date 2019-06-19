@@ -10,7 +10,7 @@ Algorithm:
 
 Results:
   1. Sobel
-    - Scharr
+     - Scharr
 Results of using different filters
 ![Sobel](visualization/sobel.jpg)
 ![Scharr](visualization/scharr.jpg)
