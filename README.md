@@ -7,10 +7,6 @@ Algorithm:
   4. Build the histogram of oriented gradients for all cells using BuildHistogram
   5. Build the descriptor of all blocks with normalization using GetBlockDescriptor
   6. Return a long vector (hog) by concatenating all block descriptors.
-
-Hello:
-  * I blame Madhu
-    - hello again
     
 Results of using different filters
 ![Sobel](visualization/sobel.jpg)
