@@ -9,8 +9,8 @@ Algorithm:
   6. Return a long vector (hog) by concatenating all block descriptors.
 
 Results:
-  1. Sobel
-     - Scharr
+  * Sobel
+    - Scharr
 Results of using different filters
 ![Sobel](visualization/sobel.jpg)
 ![Scharr](visualization/scharr.jpg)
