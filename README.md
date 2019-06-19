@@ -14,9 +14,3 @@ Results of using different filters
 ![Prewitt](visualization/prewitt.jpg)
 ![Roberts](visualization/roberts.jpg)
 
-:
-	• Connect
-		○ Change
-		○ Check
-	• Connect
-
