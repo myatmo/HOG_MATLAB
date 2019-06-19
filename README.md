@@ -8,9 +8,6 @@ Algorithm:
   5. Build the descriptor of all blocks with normalization using GetBlockDescriptor
   6. Return a long vector (hog) by concatenating all block descriptors.
 
-Results:
-  * Sobel
-    - Scharr
 Results of using different filters
 ![Sobel](visualization/sobel.jpg)
 ![Scharr](visualization/scharr.jpg)
